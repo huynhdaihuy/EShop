@@ -1,0 +1,15 @@
+D:\Training\eShopManagement\eShop.BusinessLogicLayer\bin\Debug\net7.0\eShop.BusinessLogicLayer.deps.json
+D:\Training\eShopManagement\eShop.BusinessLogicLayer\bin\Debug\net7.0\eShop.BusinessLogicLayer.dll
+D:\Training\eShopManagement\eShop.BusinessLogicLayer\bin\Debug\net7.0\eShop.BusinessLogicLayer.pdb
+D:\Training\eShopManagement\eShop.BusinessLogicLayer\bin\Debug\net7.0\eShopManagement.DataAccessLayer.dll
+D:\Training\eShopManagement\eShop.BusinessLogicLayer\bin\Debug\net7.0\eShopManagement.DataAccessLayer.pdb
+D:\Training\eShopManagement\eShop.BusinessLogicLayer\obj\Debug\net7.0\eShop.BusinessLogicLayer.csproj.AssemblyReference.cache
+D:\Training\eShopManagement\eShop.BusinessLogicLayer\obj\Debug\net7.0\eShop.BusinessLogicLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Training\eShopManagement\eShop.BusinessLogicLayer\obj\Debug\net7.0\eShop.BusinessLogicLayer.AssemblyInfoInputs.cache
+D:\Training\eShopManagement\eShop.BusinessLogicLayer\obj\Debug\net7.0\eShop.BusinessLogicLayer.AssemblyInfo.cs
+D:\Training\eShopManagement\eShop.BusinessLogicLayer\obj\Debug\net7.0\eShop.BusinessLogicLayer.csproj.CoreCompileInputs.cache
+D:\Training\eShopManagement\eShop.BusinessLogicLayer\obj\Debug\net7.0\eShop.BusinessLogicLayer.csproj.CopyComplete
+D:\Training\eShopManagement\eShop.BusinessLogicLayer\obj\Debug\net7.0\eShop.BusinessLogicLayer.dll
+D:\Training\eShopManagement\eShop.BusinessLogicLayer\obj\Debug\net7.0\refint\eShop.BusinessLogicLayer.dll
+D:\Training\eShopManagement\eShop.BusinessLogicLayer\obj\Debug\net7.0\eShop.BusinessLogicLayer.pdb
+D:\Training\eShopManagement\eShop.BusinessLogicLayer\obj\Debug\net7.0\ref\eShop.BusinessLogicLayer.dll

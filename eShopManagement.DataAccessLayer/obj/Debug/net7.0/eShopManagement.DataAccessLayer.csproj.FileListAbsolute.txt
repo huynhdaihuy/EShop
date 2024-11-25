@@ -1,0 +1,14 @@
+D:\Training\eShopManagement\eShopManagement.DataAccessLayer\bin\Debug\net7.0\eShopManagement.DataAccessLayer.deps.json
+D:\Training\eShopManagement\eShopManagement.DataAccessLayer\bin\Debug\net7.0\eShopManagement.DataAccessLayer.runtimeconfig.json
+D:\Training\eShopManagement\eShopManagement.DataAccessLayer\bin\Debug\net7.0\eShopManagement.DataAccessLayer.dll
+D:\Training\eShopManagement\eShopManagement.DataAccessLayer\bin\Debug\net7.0\eShopManagement.DataAccessLayer.pdb
+D:\Training\eShopManagement\eShopManagement.DataAccessLayer\obj\Debug\net7.0\eShopManagement.DataAccessLayer.csproj.AssemblyReference.cache
+D:\Training\eShopManagement\eShopManagement.DataAccessLayer\obj\Debug\net7.0\eShopManagement.DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Training\eShopManagement\eShopManagement.DataAccessLayer\obj\Debug\net7.0\eShopManagement.DataAccessLayer.AssemblyInfoInputs.cache
+D:\Training\eShopManagement\eShopManagement.DataAccessLayer\obj\Debug\net7.0\eShopManagement.DataAccessLayer.AssemblyInfo.cs
+D:\Training\eShopManagement\eShopManagement.DataAccessLayer\obj\Debug\net7.0\eShopManagement.DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\Training\eShopManagement\eShopManagement.DataAccessLayer\obj\Debug\net7.0\eShopManagement.DataAccessLayer.dll
+D:\Training\eShopManagement\eShopManagement.DataAccessLayer\obj\Debug\net7.0\refint\eShopManagement.DataAccessLayer.dll
+D:\Training\eShopManagement\eShopManagement.DataAccessLayer\obj\Debug\net7.0\eShopManagement.DataAccessLayer.pdb
+D:\Training\eShopManagement\eShopManagement.DataAccessLayer\obj\Debug\net7.0\eShopManagement.DataAccessLayer.genruntimeconfig.cache
+D:\Training\eShopManagement\eShopManagement.DataAccessLayer\obj\Debug\net7.0\ref\eShopManagement.DataAccessLayer.dll
