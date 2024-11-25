@@ -1,9 +1,9 @@
 ﻿using eShopManagement.DataAccess.Entities;
-using DataAccessLayer.Data;
-using DataAccessLayer.Interfaces;
 using Microsoft.EntityFrameworkCore;
+using eShopManagement.DataAccessLayer.Interfaces;
+using eShopManagement.DataAccessLayer.Data;
 
-namespace DataAccessLayer.Repositories
+namespace eShopManagement.DataAccessLayer.Repositories
 {
     public class ProductRepository : IProductRepository
     {

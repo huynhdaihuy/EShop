@@ -1,8 +1,8 @@
 {
   "Version": 1,
-  "Hash": "e8I6Z5Dh70oM/UaXVvPQFWP5wSbICoP6Zo26Ft9a9qw=",
-  "Source": "eShopManagement",
-  "BasePath": "_content/eShopManagement",
+  "Hash": "HD8TCIN5VX8Gy9KjEH/nAyPIBlaqN173JPT35F3IuMM=",
+  "Source": "eShopManagement.PresentationLayer",
+  "BasePath": "_content/eShopManagement.PresentationLayer",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],

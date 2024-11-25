@@ -1,4 +1,4 @@
-using DataAccessLayer.Repositories;
+using eShopManagement.DataAccessLayer.Repositories;
 using eShopManagement.BusinessLogicLayer;
 using eShopManagement.BusinessLogicLayer.Interfaces;
 using eShopManagement.DataAccessLayer.Data;
