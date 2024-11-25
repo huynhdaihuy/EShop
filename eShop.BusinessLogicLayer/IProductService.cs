@@ -1,6 +1,6 @@
 ﻿using eShopManagement.DataAccess.Entities;
 
-namespace BusinessLogicLayer
+namespace eShopManagement.BusinessLogicLayer.Interfaces
 {
     public interface IProductService
     {

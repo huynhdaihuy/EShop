@@ -1,7 +1,8 @@
-﻿using eShopManagement.DataAccess.Entities;
+﻿using eShopManagement.BusinessLogicLayer.Interfaces;
+using eShopManagement.DataAccess.Entities;
 using eShopManagement.DataAccessLayer.Interfaces;
 
-namespace BusinessLogicLayer
+namespace eShopManagement.BusinessLogicLayer
 {
     public class ProductService : IProductService
     {

@@ -1,4 +1,4 @@
-﻿using DataAccess.Entities;
+﻿using eShopManagement.DataAccess.Entities;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata.Builders;
 
