@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.6.33815.320
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "eShopManagement", "eShopManagement\eShopManagement.csproj", "{85356E5D-A9F2-430D-952C-844AB53BF264}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "eShopManagement.PresentationLayer", "eShopManagement\eShopManagement.PresentationLayer.csproj", "{85356E5D-A9F2-430D-952C-844AB53BF264}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "eShopManagement.DataAccessLayer", "eShopManagement.DataAccessLayer\eShopManagement.DataAccessLayer.csproj", "{9E6C5DED-9293-4C4D-BFA0-72618F709313}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "eShopManagement.DataAccessLayer", "eShopManagement.DataAccessLayer\eShopManagement.DataAccessLayer.csproj", "{9E6C5DED-9293-4C4D-BFA0-72618F709313}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "eShop.BusinessLogicLayer", "eShop.BusinessLogicLayer\eShop.BusinessLogicLayer.csproj", "{023DF7CB-19DC-40EA-BC1D-BD26E23B5B49}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "eShop.BusinessLogicLayer", "eShop.BusinessLogicLayer\eShop.BusinessLogicLayer.csproj", "{023DF7CB-19DC-40EA-BC1D-BD26E23B5B49}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

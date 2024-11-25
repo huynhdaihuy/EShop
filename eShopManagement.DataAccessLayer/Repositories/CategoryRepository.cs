@@ -1,9 +1,9 @@
-﻿using DataAccess.Entities;
-using DataAccessLayer.Data;
-using DataAccessLayer.Interfaces;
+﻿using eShopManagement.DataAccess.Entities;
+using eShopManagement.DataAccessLayer.Data;
+using eShopManagement.DataAccessLayer.Interfaces;
 using Microsoft.EntityFrameworkCore;
 
-namespace DataAccessLayer.Repositories
+namespace eShopManagement.DataAccessLayer.Repositories
 {
     public class CategoryRepository : ICategoryRepository
     {
