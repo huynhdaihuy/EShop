@@ -1,0 +1,62 @@
+[
+  {
+    "Id": 1,
+    "Name": "Electronics"
+  },
+  {
+    "Id": 2,
+    "Name": "Clothing"
+  },
+  {
+    "Id": 3,
+    "Name": "Food"
+  },
+  {
+    "Id": 4,
+    "Name": "Toys"
+  },
+  {
+    "Id": 5,
+    "Name": "Furniture"
+  },
+  {
+    "Id": 6,
+    "Name": "Books"
+  },
+  {
+    "Id": 7,
+    "Name": "Sports"
+  },
+  {
+    "Id": 8,
+    "Name": "Automotive"
+  },
+  {
+    "Id": 9,
+    "Name": "Health"
+  },
+  {
+    "Id": 10,
+    "Name": "Beauty"
+  },
+  {
+    "Id": 11,
+    "Name": "Office Supplies"
+  },
+  {
+    "Id": 12,
+    "Name": "Pet Supplies"
+  },
+  {
+    "Id": 13,
+    "Name": "Music"
+  },
+  {
+    "Id": 14,
+    "Name": "Home Appliances"
+  },
+  {
+    "Id": 15,
+    "Name": "Garden"
+  }
+]

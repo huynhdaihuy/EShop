@@ -1,0 +1,122 @@
+[
+  {
+    "Id": 1,
+    "Name": "Laptop",
+    "Description": "High performance laptop",
+    "Price": 999.99,
+    "Quantity": 50,
+    "CategoryId": 1
+  },
+  {
+    "Id": 2,
+    "Name": "Smartphone",
+    "Description": "Latest model smartphone",
+    "Price": 799.99,
+    "Quantity": 150,
+    "CategoryId": 1
+  },
+  {
+    "Id": 3,
+    "Name": "Shirt",
+    "Description": "Cotton shirt",
+    "Price": 19.99,
+    "Quantity": 100,
+    "CategoryId": 2
+  },
+  {
+    "Id": 4,
+    "Name": "Jeans",
+    "Description": "Denim jeans",
+    "Price": 39.99,
+    "Quantity": 80,
+    "CategoryId": 2
+  },
+  {
+    "Id": 5,
+    "Name": "Pizza",
+    "Description": "Delicious cheese pizza",
+    "Price": 12.99,
+    "Quantity": 200,
+    "CategoryId": 3
+  },
+  {
+    "Id": 6,
+    "Name": "Chips",
+    "Description": "Crispy potato chips",
+    "Price": 2.99,
+    "Quantity": 300,
+    "CategoryId": 3
+  },
+  {
+    "Id": 7,
+    "Name": "Action Figure",
+    "Description": "Superhero action figure",
+    "Price": 25.99,
+    "Quantity": 150,
+    "CategoryId": 4
+  },
+  {
+    "Id": 8,
+    "Name": "Doll",
+    "Description": "Plastic doll for kids",
+    "Price": 15.99,
+    "Quantity": 120,
+    "CategoryId": 4
+  },
+  {
+    "Id": 9,
+    "Name": "Sofa",
+    "Description": "Comfortable living room sofa",
+    "Price": 499.99,
+    "Quantity": 30,
+    "CategoryId": 5
+  },
+  {
+    "Id": 10,
+    "Name": "Coffee Table",
+    "Description": "Wooden coffee table",
+    "Price": 89.99,
+    "Quantity": 50,
+    "CategoryId": 5
+  },
+  {
+    "Id": 11,
+    "Name": "Novel",
+    "Description": "Fictional novel",
+    "Price": 9.99,
+    "Quantity": 200,
+    "CategoryId": 6
+  },
+  {
+    "Id": 12,
+    "Name": "Cookbook",
+    "Description": "Recipe book for chefs",
+    "Price": 14.99,
+    "Quantity": 150,
+    "CategoryId": 6
+  },
+  {
+    "Id": 13,
+    "Name": "Soccer Ball",
+    "Description": "Official size soccer ball",
+    "Price": 19.99,
+    "Quantity": 100,
+    "CategoryId": 7
+  },
+  {
+    "Id": 14,
+    "Name": "Car Tire",
+    "Description": "All-season tire",
+    "Price": 99.99,
+    "Quantity": 200,
+    "CategoryId": 8
+  },
+  {
+    "Id": 15,
+    "Name": "Vitamins",
+    "Description": "Multivitamins for adults",
+    "Price": 15.99,
+    "Quantity": 500,
+    "CategoryId": 9
+  }
+]

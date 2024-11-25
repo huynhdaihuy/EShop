@@ -1,4 +1,8 @@
-using DataAccessLayer.Data;
+using eShopManagement.BusinessLogicLayer.Interfaces;
+using eShopManagement.BusinessLogicLayer;
+using eShopManagement.DataAccessLayer.Data;
+using eShopManagement.DataAccessLayer.Interfaces;
+using eShopManagement.DataAccessLayer.Repositories;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -8,6 +12,10 @@ builder.Services.AddDbContext<ApplicationDbContext>(options =>
 {
     options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection"));
 });
+// Add dependency
+builder.Services.AddScoped<ICategoryRepository, CategoryRepository>();
+builder.Services.AddScoped<ICategoryService, CategoryService>();
+
 builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
