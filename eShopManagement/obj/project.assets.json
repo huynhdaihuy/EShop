@@ -3965,9 +3965,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Training\\eShopManagement\\eShopManagement\\eShopManagement.csproj",
-      "projectName": "eShopManagement",
-      "projectPath": "D:\\Training\\eShopManagement\\eShopManagement\\eShopManagement.csproj",
+      "projectUniqueName": "D:\\Training\\eShopManagement\\eShopManagement\\eShopManagement.PresentationLayer.csproj",
+      "projectName": "eShopManagement.PresentationLayer",
+      "projectPath": "D:\\Training\\eShopManagement\\eShopManagement\\eShopManagement.PresentationLayer.csproj",
       "packagesPath": "C:\\Users\\huynh\\.nuget\\packages\\",
       "outputPath": "D:\\Training\\eShopManagement\\eShopManagement\\obj\\",
       "projectStyle": "PackageReference",
